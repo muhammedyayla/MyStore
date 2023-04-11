@@ -5,7 +5,7 @@ If you get an error messages follow steps
 * Be sure you are using .net core 6.0
 
 * Add NuGet packages to project. You can add packages from right click on your MyStore project and click manage NuGet Packages 
-** In the manage NuGet Packages tab click Browse Download these; System.Data.SqlClient
+* In the manage NuGet Packages tab click Browse Download these; System.Data.SqlClient
 That's it. Now You can run the project enjoy it.
 
 If you have an error messages still you can write a mail to me. muhammedeminyayla321@gmail.com
